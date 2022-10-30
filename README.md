@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wistech7l&layout=default)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wistech7l&layout=default) -->
 
 <!-- 
 ## Skills
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
   <br/>
 
   ## Formação Acadêmica
-###  * Graduado em Engenharia de Computação
-###  * Complementação Pedagogica em Computação
+* Graduado em Engenharia de Computação
+* Complementação Pedagogica em Computação
 
 <!-- </details> -->
 
