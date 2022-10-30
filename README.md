@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 
 
-🔭 Eu atualmente estou trabalhando como Instrutor de educação profissional no [Senac Minas](https://www.mg.senac.br) e sou desenvolvedor back-end na empresa [E-com.plus](https://e-com.plus)
+🔭 Eu atualmente estou trabalhando como desenvolvedor back-end na empresa [E-com.plus](https://e-com.plus)
 
-🌱 Eu estou estudando *Arduino*, e como criar aplicações para *Alexa*
+🌱 Eu estou estudando *Arduino*, desenvolvendo uma pequena API para controle autonomo de sistema SOLAR OFF-GRID,
+<!-- e como criar aplicações para *Alexa* -->
 <br/>
 <br/>
 
