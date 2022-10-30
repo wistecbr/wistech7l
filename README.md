@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wistech7l&layout=default)
 
-
+<!-- 
 ## Skills
 
 <div style="display: flex;
@@ -49,20 +49,19 @@ Here are some ideas to get you started:
 
 </div>
 
-<br/>
-<details>
+<br/> -->
+<!-- <details> -->
   <summary><b>✨&nbsp;&nbsp;Sobre&nbsp;Mim</b></summary>
   <br/>
 
   ## Formação Acadêmica
-  * Graduado em Engenharia de Computação
-  * Complementação Pedagogica em Computação
+###  * Graduado em Engenharia de Computação
+###  * Complementação Pedagogica em Computação
 
-  ## 
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details>
 <summary><b>🛠️&nbsp;&nbsp;Projetos</b></summary>
 <br/>
 
-</details>
+</details> -->
