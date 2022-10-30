@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 🔭 Eu atualmente estou trabalhando como desenvolvedor back-end na empresa [E-com.plus](https://e-com.plus)
 
-🌱 Eu estou estudando *Arduino*, desenvolvendo uma pequena API para controle autonomo de sistema SOLAR OFF-GRID,
+🌱 Eu estou estudando *Arduino*, desenvolvendo uma pequena API para controle autonomo de sistema SOLAR OFF-GRID.
+
 <!-- e como criar aplicações para *Alexa* -->
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wistech7l&layout=default) -->
 
@@ -51,8 +52,8 @@ Here are some ideas to get you started:
 
 <br/> -->
 <!-- <details> -->
-  <summary><b>✨&nbsp;&nbsp;Sobre&nbsp;Mim</b></summary>
-  <br/>
+<!--   <summary><b>✨&nbsp;&nbsp;Sobre&nbsp;Mim</b></summary>
+  <br/> -->
 
   ## Formação Acadêmica
 * Graduado em Engenharia de Computação
